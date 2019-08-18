@@ -1,9 +1,12 @@
+import { SETPERfORMANCE, SETUSERDETAILS } from "../actions/types";
 
-export default (state = {}, action) => {
+export default (state = {user: null}, action) => {
   const { type, payload } = action;
   switch (type) {
-    case 'a':
-      return {...state};
+    case SETPERfORMANCE:
+      return {...state, performance: payload};
+    case SETUSERDETAILS:
+      return { ...state, user: payload };
     default:
       return state
   }

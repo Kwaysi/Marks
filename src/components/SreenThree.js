@@ -24,9 +24,9 @@ class ScreenThree extends Component {
   render () {
     const { show } = this.state;
     return (
-      <AnimateInOut classname={show ? 'slide-in-right':'scale-out-center'}>
+      <AnimateInOut classname={show ? 'slide-in-right one':'scale-out-center'}>
         <div className="center-box">
-          <div>
+          <div className="three">
             <h1>Tap the correct option to choose an answer.</h1>
             <img src={Tap} alt="arrow dark" width={60}/>
             <h1>Swipe up to skip a question.</h1>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 719.67 180.91"
+   version="1.1"
+   sodipodi:docname="Ariga.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata24">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="704"
+     id="namedview22"
+     showgrid="false"
+     inkscape:zoom="0.45993304"
+     inkscape:cx="135.88935"
+     inkscape:cy="90.455002"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Group-53" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#322b31}.cls-2{fill:#9c7161}</style>
+  </defs>
+  <g
+     id="Page-1">
+    <g
+       id="ariga-deliverables">
+      <g
+         id="Group-53">
+        <path
+           id="Fill-40"
+           class="cls-1"
+           d="m 394.07217,67.45 h 28.45 V 38.6 h -28.45 z"
+           inkscape:connector-curvature="0"
+           style="fill:#322b31" />
+        <path
+           id="Fill-42"
+           class="cls-1"
+           d="m 247.86217,139.19 h 26.9 v -28.85 h -26.9 z"
+           inkscape:connector-curvature="0"
+           style="fill:#322b31" />
+        <path
+           id="Fill-43"
+           class="cls-2"
+           d="m 282.56217,180.91 h 28.85 V 75.25 h -28.85 z"
+           inkscape:connector-curvature="0"
+           style="fill:#9c7161" />
+        <path
+           id="Fill-44"
+           class="cls-2"
+           d="m 357.42217,180.91 h 28.85 v -33.92 h -28.85 z"
+           inkscape:connector-curvature="0"
+           style="fill:#9c7161" />
+        <path
+           id="Fill-45"
+           class="cls-1"
+           d="m 247.86217,67.45 h 101.76 V 38.6 h -101.76 z"
+           inkscape:connector-curvature="0"
+           style="fill:#322b31" />
+        <path
+           id="Fill-46"
+           class="cls-2"
+           d="m 357.42217,102.54 h 28.85 V 0 h -28.85 z"
+           inkscape:connector-curvature="0"
+           style="fill:#9c7161" />
+        <path
+           id="Fill-47"
+           class="cls-1"
+           d="m 319.21217,139.19 h 103.31 v -28.85 h -103.31 z"
+           inkscape:connector-curvature="0"
+           style="fill:#322b31" />
+      </g>
+    </g>
+  </g>
+</svg>

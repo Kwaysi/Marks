@@ -17,17 +17,6 @@
   color: white;
 }
 
-.label-active {
-  border-radius: 20px;
-  display: inline-block;
-  margin: 10px;
-  border: 1px solid #bdbdbd;
-  padding: 8px;
-  font-size: 16px;
-  background: 220526;
-  color: white;
-}
-
 .checkbox input {
   display: none;
 }

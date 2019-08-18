@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="940"
+   height="659"
+   fill="none"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="Aella Credit.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="704"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="0.35212766"
+     inkscape:cx="177.49245"
+     inkscape:cy="329.5"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
+  <path
+     d="m 828.75952,477.6571 a 271.3,271.3 0 0 1 -89,70.8 c -34.8,17.7 -72.9,26 -115,26 -36.4,0 -70.1,-6.7 -101.6,-20 a 272.5,272.5 0 0 1 -83,-54 244.7,244.7 0 0 1 -55.2,-80.2 243,243 0 0 1 -20.4,-98.4 l 37.6,-81.8 39.7,86.2 38.7,82.4 a 192.6,192.6 0 0 0 55.3,49.7 c 7.7,5 16,9.4 24.9,13.3 a 157.4,157.4 0 0 0 64.6,13.2 c 29.9,0 57,-6.6 80.2,-20.4 a 181,181 0 0 0 58,-54.2 z m -367.4,-358.1 a 260.6,260.6 0 0 1 158.5,-51.4 c 42,0 80.2,8.8 115,26 a 266.9,266.9 0 0 1 86.8,68.5 l -65.3,66.9 a 169.7,169.7 0 0 0 -58,-52 157.8,157.8 0 0 0 -78.5,-19.9 c -22.6,0 -44.2,4.5 -64.6,13.3 a 172.3,172.3 0 0 0 -52.6,35.4 z"
+     id="path2"
+     inkscape:connector-curvature="0"
+     style="fill:#50afcf" />
+  <path
+     d="m 486.15952,403.1571 -38.8,-83 -45.9,-98.9 -164.1,352 h -104 l 231,-488.5 h 74.1 l 186.3,394 c -53.6,-1.6 -108.9,-34.8 -138.7,-75.7 z"
+     id="path4"
+     inkscape:connector-curvature="0"
+     style="fill:#4498c6" />
+</svg>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="186"
+   height="79"
+   viewBox="0 0 186 79"
+   fill="none"
+   version="1.1"
+   id="svg14"
+   sodipodi:docname="Africa Fintech Foundry .svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata20">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs18" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="704"
+     id="namedview16"
+     showgrid="false"
+     inkscape:zoom="1.7795699"
+     inkscape:cx="35.120846"
+     inkscape:cy="39.5"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg14" />
+  <path
+     d="m 88.327384,77.980567 -7.9688,-11.5643 V 36.243967 6.0716971 h 22.266496 l 3.7847,6.7282699 H 88.327384 v 4.836 h 20.184996 l 4.4154,7.5694 H 88.327384 Z"
+     id="path2"
+     inkscape:connector-curvature="0"
+     style="fill:#000000" />
+  <path
+     d="m 91.788484,79.133667 v -50.4625 h 31.538996 l -3.1539,7.5694 h -19.9747 v 4.2052 h 18.5029 l -2.7334,7.5694 h -15.7695 v 25.6517 z"
+     id="path4"
+     inkscape:connector-curvature="0"
+     style="fill:#000000" />
+  <path
+     d="m 48.831838,22.422367 20.815746,-20.6054459 7.7796,4.205196 V 43.658667 l -7.7796,-5.677 v -7.7797 l -10.7233,-6.0975 -4.41544,4.6257 z m 20.605446,-8.095 v 8.4104 l -6.3078,-3.1539 z"
+     id="path6"
+     inkscape:connector-curvature="0"
+     style="clip-rule:evenodd;fill:#000000;fill-rule:evenodd" />
+</svg>

@@ -1,8 +1,13 @@
 .iconbg {
-  width: 200px;
-  height: 200px;
+  width: 150px;
+  height: 150px;
   background: white;
-  display: inline-block;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   margin: 40px auto;
 }
 
+.iconbg img{
+  width: 100px;
+}

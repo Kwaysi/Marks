@@ -79,10 +79,8 @@
 }
 
 .ping {
-	-webkit-animation: ping 0.8s ease-in-out infinite both;
-          animation: ping 0.8s ease-in-out infinite both;
-  -webkit-animation-direction: alternate-reverse;
-          animation-direction: alternate-reverse;
+	-webkit-animation: ping 1s ease-in-out infinite both;
+          animation: ping 1s ease-in-out infinite both;
 }
 
 /* ----------------------------------------------
@@ -206,8 +204,6 @@
 	-webkit-animation: scale-in-center 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
           animation: scale-in-center 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
   position: absolute;
-  top: 20px;
-  left: -20px;
 }
 
 /* ----------------------------------------------

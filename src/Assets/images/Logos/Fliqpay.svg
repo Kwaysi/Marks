@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="174"
+   height="50"
+   viewBox="0 0 174 50"
+   fill="none"
+   version="1.1"
+   id="svg25"
+   sodipodi:docname="Fliqpay.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata29">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview27"
+     showgrid="false"
+     inkscape:zoom="1.9022989"
+     inkscape:cx="77.800604"
+     inkscape:cy="25"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg25" />
+  <path
+     fill-rule="evenodd"
+     clip-rule="evenodd"
+     d="M0 3.96647C0 1.2438 2.0728 -0.479091 4.63006 0.118361L32.4458 6.61694C35.0029 7.21436 37.0759 9.15827 37.0759 10.9635V38.4029C37.0759 40.206 35.0031 42.152 32.4458 42.7495L4.63006 49.248C2.07295 49.8455 0 48.1258 0 45.3999V3.96647ZM7.87863 14.0328C7.87863 11.8344 9.68434 10.3119 11.9074 10.6315L23.9976 12.3697C26.2227 12.6896 28.0264 14.3659 28.0264 16.1148C28.0264 17.8632 26.2207 19.167 23.9976 19.0271L11.9074 18.2667C9.68238 18.1267 7.87863 16.2316 7.87863 14.0328ZM7.66421 24.6832C7.66421 22.4077 9.53332 20.6385 11.8344 20.7316L24.3491 21.2376C26.6523 21.3308 28.5194 22.873 28.5194 24.6832C28.5194 26.493 26.6503 28.0357 24.3491 28.1288L11.8344 28.6348C9.53128 28.728 7.66421 26.9593 7.66421 24.6832ZM12.5131 39.5406C15.0727 39.1496 17.1476 36.9695 17.1476 34.6711C17.1476 32.3727 15.0727 30.64 12.5131 30.801C9.95356 30.962 7.87863 33.1421 7.87863 35.6705C7.87863 38.1989 9.95356 39.9316 12.5131 39.5406Z"
+     fill="url(#paint0_linear)"
+     id="path16" />
+  <defs
+     id="defs23">
+    <linearGradient
+       id="paint0_linear"
+       x1="-32.7469"
+       y1="-27.3278"
+       x2="-33.9316"
+       y2="111.019"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#1400FF"
+         id="stop18" />
+      <stop
+         offset="1"
+         stop-color="#FC199B"
+         id="stop20" />
+    </linearGradient>
+  </defs>
+</svg>

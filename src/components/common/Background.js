@@ -5,15 +5,10 @@ export const AnimatedBg = ({children}) => {
   return (
     <>
       <section className="animatedbg">
-        <div class="view">
-          <div class="plane main">
-            <div class="circle"></div>
-            <div class="circle"></div>
-            <div class="circle"></div>
-            <div class="circle"></div>
-            <div class="circle"></div>
-            <div class="circle"></div>
-          </div>
+        <div class='box'>
+            <div class='wave -one'></div>
+            <div class='wave -two'></div>
+            <div class='wave -three'></div>
         </div>
       </section>
       <div className="main-frame">

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1256"
+   height="550"
+   fill="none"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="GUO Transport.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="0.26353503"
+     inkscape:cx="561.59517"
+     inkscape:cy="275"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg6" />
+  <path
+     d="m 423.58912,272.89124 v -21 h -232 v 80 h 117 c -12,43 -51,63 -94,63 -66,0 -107,-54 -107,-118 0,-61 43,-113 107,-113 37,0 68,18 86,50 h 112 c -24,-83 -111,-138.000001 -196,-138.000001 -114,0 -208.9999961,84.000001 -208.9999961,201.000001 0,116 92.0000001,205 207.9999961,205 120,0 208,-89 208,-209 z m 359,47 V 82.891239 h -100 V 319.89124 c 0,37 -2,74 -49,74 -45,0 -51,-39 -51,-74 V 82.891239 h -100 V 319.89124 c 0,49 4,83 39,120 29,30 72,42 113,42 42,0 80,-12 109,-42 34,-34 39,-74 39,-120 z m 473.99998,-41 c 0,-115 -92,-203.000001 -206,-203.000001 A 202,202 0 0 0 844.58912,283.89124 c 0,112 95,198 204.99998,198 115,0 207,-87 207,-203 z m -100,0 c 0,60 -42,115 -105,115 -64.99998,0 -107.99998,-54 -107.99998,-116 0,-61 43,-114 106.99998,-114 64,0 106,55 106,115 z"
+     id="path2"
+     inkscape:connector-curvature="0"
+     style="fill:#064785" />
+</svg>

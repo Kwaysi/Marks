@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 1000 1000"
+   version="1.1"
+   id="svg24"
+   sodipodi:docname="Access Bank.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata30">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs28" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="704"
+     id="namedview26"
+     showgrid="false"
+     inkscape:zoom="0.236"
+     inkscape:cx="63.559322"
+     inkscape:cy="500"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg24" />
+  <title
+     id="title2">Nigeria-Logo</title>
+  <polygon
+     points="125.47,382.33 125.47,401.45 230.92,506.9 230.96,506.94 139.62,598.28 139.51,598.17 48.23,506.9 48.15,506.82 92.96,462.01 73.51,462.01 28.66,506.86 28.7,506.9 139.47,617.67 139.51,617.63 250.14,507 250.04,506.9 "
+     style="fill:#fe6309"
+     id="polygon18"
+     transform="translate(343.22034)" />
+  <polygon
+     points="125.43,433.73 198.64,506.94 139.66,565.92 80.63,506.9 80.55,506.82 125.36,462.01 105.91,462.01 61.06,506.86 61.1,506.9 129.89,575.69 139.51,585.31 149.29,575.54 217.82,507 125.43,414.61 "
+     style="fill:#fe6309"
+     id="polygon20"
+     transform="translate(343.22034)" />
+  <path
+     d="m 528.75034,506.9 -36.53,-36.57 -9.72,-9.72 -9.56,9.56 -36.72,36.69 v 0 l 36.74,36.74 9.62,9.62 9.76,-9.77 36.51,-36.45 z m -46,27 -27,-27 -0.08,-0.08 26.93,-26.93 27,27 v 0 z"
+     style="fill:#fe6309"
+     id="path22"
+     inkscape:connector-curvature="0" />
+</svg>
