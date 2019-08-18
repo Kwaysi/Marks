@@ -1,0 +1,1 @@
+export const SETUSERDETAILS = 'set user details';
