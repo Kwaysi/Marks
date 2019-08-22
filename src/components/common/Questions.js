@@ -28,7 +28,6 @@ class Question extends Component {
   };
 
   componentDidMount() {
-    console.log(allBrands);
     const { score, missed, skipped } = this.state;
     this.props.setScores({score, missed, skipped})
   }
@@ -65,7 +64,7 @@ class Question extends Component {
           <div>
             {
               shuffled.map((elem, index) => {
-                return <Checkbox name="options" key={index} label={elem} id={`a${index}`} onclick={() => this.nextQuestion(elem)} />;
+                return <Checkbox name="options" key={index} cn={this.props.flash ? 'lbl-white' : ''} label={elem} id={`a${index}`} onclick={() => this.nextQuestion(elem)} />;
               })
             }
           </div>
@@ -111,7 +110,7 @@ class Question extends Component {
 
 const mapStateToProps = (state) => {
   return {
-
+    flash: state.Game.disableFlash
   }
 }
 

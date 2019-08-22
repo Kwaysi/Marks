@@ -4,6 +4,9 @@ import {
   FacebookIcon,
   TwitterIcon,
   WhatsappIcon,
+  FacebookShareButton, 
+  TwitterShareButton,
+  WhatsappShareButton
 } from 'react-share';
 
 // Components
@@ -19,7 +22,7 @@ class ScreenFive extends Component {
 
   componentWillMount () {
     if(!this.props.email || !this.props.performance) {
-      this.props.history.push('/');
+      // this.props.history.push('/');
     }
   }
 
@@ -33,6 +36,7 @@ class ScreenFive extends Component {
   render() {
     const { show } = this.state;
     const { score, missed, skipped } = this.props.performance;
+    const msg = `I identified ${score}, miseed ${missed} & skipped ${skipped}. How many logos can you identify in 60 seconds?`
     
     return (
       <AnimateInOut classname={show ? 'slide-in-bottom' : 'slide-out-left'}>
@@ -50,14 +54,23 @@ class ScreenFive extends Component {
                 <p>Skipped</p>
               </div>
             </div>
-            <button className="btn-white hvr-grow">Play Again </button>
+            <button className="btn-white hvr-grow" onClick={()=> this.props.history.push('/3')}>Play Again </button>
             <div className="details">
-              <h1>Did you literally just crawl out from Abeokuta?</h1>
-              <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
+              <h1>Share your results with your friends!</h1>
               <div className="share">
-                <FacebookIcon url={'https://creosis.com'} size={32} round={true}/>
-                <TwitterIcon url={'https://creosis.com'} size={32} round={true}/>
-                <WhatsappIcon url={'https://creosis.com'} size={32} round={true}/>
+                <FacebookShareButton url={'https://marks.creosis.com.ng'} quote={msg}>
+                  <FacebookIcon size={32} round={true}/>
+                </FacebookShareButton>
+                <TwitterShareButton url={'https://marks.creosis.com.ng'} title={msg}>
+                  <TwitterIcon size={32} round={true}/>
+                </TwitterShareButton>
+                <WhatsappShareButton url={'https://marks.creosis.com.ng'} title={msg}>
+                  <WhatsappIcon size={32} round={true}/>
+                </WhatsappShareButton>
+              </div>
+              <div className="contact">
+                <h3>Want to build an interactive web/mobile experience for your users?</h3>
+                <p>Send an email to <a href="mailto:hello@creosis.com">hello@creosis.com</a></p>
               </div>
             </div>
           </div>

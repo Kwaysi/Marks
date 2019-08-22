@@ -5,7 +5,7 @@ import { connect } from 'react-redux';
 import Input from './common/Input';
 import Button from './common/Button';
 import {AnimateInOut} from './common/AnimateInOut';
-import { setUserDetails } from '../actions/GameActions';
+import { setUserDetails, disableFlashes } from '../actions/GameActions';
 
 // Assets
 import arrowLight from '../Assets/images/arrow-light.svg';
@@ -18,16 +18,15 @@ class ScreenOne extends Component {
       show: true,
       email: null,
       name: null,
-      cn: null
+      cn: null,
+      disableFlashes: false
     };
     this.stepTwo = this.stepTwo.bind(this);
+    this.disableFlashes = this.disableFlashes.bind(this);
   }
   
   stepTwo() {
     const { email, name } = this.state;
-
-    console.log(email);
-    console.log(ValidateEmail(email));
 
     if (ValidateEmail(email) && (name !== '')) {
       this.props.setUserDetails({email, name});
@@ -43,14 +42,19 @@ class ScreenOne extends Component {
     }
   }
 
+  disableFlashes () {
+    this.props.disableFlashes(!this.state.disableFlashes);
+    this.setState({
+      disableFlashes: !this.state.disableFlashes
+    })
+  }
+
   handChange = (e) => {
     const { value, name } = e.target;
     
     this.setState({
       [name]: value
     })
-
-    console.log(this.state);
   };
   
   render () {
@@ -63,6 +67,7 @@ class ScreenOne extends Component {
             <img src={arrowDark} alt="arrow dark" />
             <Input label="Your name" type="text" placeHolder="Your name" name="name" handleChange={this.handChange} value={name}/>
             <Input label="Your email" type="email" placeHolder="example@domain.com" name="email" handleChange={this.handChange} value={email} cn={cn} />
+            <Input label="I don't like flashing colors" hFor="cb" type="checkbox" name="email" handleChange={this.disableFlashes} />
             <Button onclick={this.stepTwo}><img src={arrowLight} alt="arrow light" /></Button>
           </div>
         </div>
@@ -84,4 +89,4 @@ const mapStateToProps = (state) => {
   }
 }
 
-export default connect(mapStateToProps, {setUserDetails})(ScreenOne);
+export default connect(mapStateToProps, {setUserDetails, disableFlashes})(ScreenOne);

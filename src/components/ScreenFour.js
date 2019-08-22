@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import ReactCountdownClock from 'react-countdown-clock';
+import { connect } from 'react-redux';
 import {AnimateInOut} from './common/AnimateInOut';
 
 // images 
@@ -28,11 +29,9 @@ class ScreenFour extends Component {
     const {cn, color} = this.state;
     return (
       <AnimateInOut classname="scale-in-center">
-        <div className="game">
+        <div className={`game ${this.props.flash ? 'staticGame' : 'animatedGame'}`}>
           <AnimateInOut classname={`scale-in-center top-left ${cn}`}>
-            <ReactCountdownClock seconds={60} color={color} alpha={0.9} size={80} weight={20} 
-            onComplete={() => this.nextStep()}
-            />
+            <ReactCountdownClock seconds={60} color={color} alpha={0.9} size={80} weight={20} onComplete={() => this.nextStep()}/>
           </AnimateInOut>
           <Question />
         </div>
@@ -41,4 +40,10 @@ class ScreenFour extends Component {
   }
 }
 
-export default ScreenFour;
+const mapStateToProps = (state) => {
+  return {
+    flash: state.Game.disableFlash
+  }
+}
+
+export default connect(mapStateToProps)(ScreenFour);

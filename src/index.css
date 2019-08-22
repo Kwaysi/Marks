@@ -45,7 +45,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-h1 {
+h1, h2, h3 {
   font-family: "sansista";
 }
 
@@ -89,15 +89,6 @@ code {
   justify-content: center;
 }
 
-#bg-video {
-  position: fixed;
-  right: 50vw;
-  bottom: 0;
-  min-width: 100%;
-  min-height: 100%;
-  transform: translateX(50%);
-}
-
 .content {
   /* background: #220526; */
   color: #f1f1f1;
@@ -105,26 +96,23 @@ code {
   height: 100vh;
   padding: 20px;
 }
-
-.keke {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100vh;
-  background: url(./Assets/images/keke.png);
-  background-size: cover;
-  background-position: center;
-}
-
 .game {
   width: 100vw;
   height: 100vh;
-  animation: gamebg 2s infinite;
   display: flex;
   align-items: center;
   justify-content: center;
 }
+
+.animatedGame {
+  animation: gamebg 2s infinite;
+}
+
+.staticGame {
+  background: #222222;
+}
+
+
 
 .btn-white {
   border: none;
@@ -193,6 +181,14 @@ code {
 }
 
 .details p {
+  margin: 20px auto;
+}
+
+.details h1 {
+  margin: 20px auto;
+}
+
+.contact {
   margin: 20px auto;
 }
 

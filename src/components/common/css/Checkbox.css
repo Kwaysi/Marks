@@ -9,7 +9,12 @@
   border: 1px solid #220526;
   padding: 8px;
   font-size: 16px;
-  color: 220526;
+  color:#220526;
+}
+
+.lbl-white {
+  border: 1px solid #ffffff;
+  color:#ffffff;
 }
 
 .label:hover {
